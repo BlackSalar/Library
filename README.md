@@ -4,4 +4,4 @@
 - Запись читателей.
 - Ведение учетной книги.
 Пример визуальной части:
-<img src="https://github.com/BlackSalar/Library/">
+<img src="https://github.com/BlackSalar/Library/Image.jpg">
